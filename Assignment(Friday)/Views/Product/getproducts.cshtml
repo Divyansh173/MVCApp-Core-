@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Assignment_Friday_.Models.Result>
+
+@{
+    ViewData["Title"] = "getproducts";
+}
+
+<h1>getproducts</h1>
+<form  asp-controller="Product" asp-action="getproducts" method="post">
+    <div class="form-group">
+         <input type="text" name="name" />Enter Your Search  
+    </div>
+    <tr>
+        <td><input type="submit" value="Submit Form" /></td>
+    </tr>
+</form>
+<hr></hr>
+<table class="table" style="color:black">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ManufacturerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.seller)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null) {
+            @foreach (var item in Model)
+            {
+            <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.seller)
+            </td>
+        </tr>
+        }
+}
+    </tbody>
+</table>

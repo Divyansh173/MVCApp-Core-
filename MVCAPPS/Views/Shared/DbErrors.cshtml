@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "DbErrors";
+}
+<h1>DbErrors</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+@if (Model != null)
+{
+}
+else
+{
+    <div>
+        <p class="alert alert-danger">
+            @ViewData["ErrorMessage"]
+        </p>
+    </div>
+} 

@@ -1,0 +1,17 @@
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\bin\Debug\net6.0\Coditas.ECommerce.DataAccess.deps.json
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\bin\Debug\net6.0\Coditas.ECommerce.DataAccess.runtimeconfig.json
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\bin\Debug\net6.0\Coditas.ECommerce.DataAccess.dll
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\bin\Debug\net6.0\Coditas.ECommerce.DataAccess.pdb
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\Coditas.ECommerce.DataAccess.csproj.AssemblyReference.cache
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\Coditas.ECommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\Coditas.ECommerce.DataAccess.AssemblyInfoInputs.cache
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\Coditas.ECommerce.DataAccess.AssemblyInfo.cs
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\Coditas.ECommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\Coditas.ECommerce.DataAccess.dll
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\refint\Coditas.ECommerce.DataAccess.dll
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\Coditas.ECommerce.DataAccess.pdb
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\Coditas.ECommerce.DataAccess.genruntimeconfig.cache
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\ref\Coditas.ECommerce.DataAccess.dll
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\bin\Debug\net6.0\Coditas.ECommerce.Entities.dll
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\bin\Debug\net6.0\Coditas.ECommerce.Entities.pdb
+C:\NETELTP\MVCAPPS\Coditas.ECommerce.DataAccess\obj\Debug\net6.0\Coditas.ECommerce.DataAccess.csproj.CopyComplete
